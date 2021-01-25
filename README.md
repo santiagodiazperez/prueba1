@@ -1,2 +1,4 @@
 # prueba1
-publica prueba 1
+pública prueba 1
+- es público
+- solo texto
